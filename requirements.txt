@@ -1,0 +1,8 @@
+pandas
+datasets
+openai
+tqdm
+backoff
+transformers
+scikit-learn
+evaluate
