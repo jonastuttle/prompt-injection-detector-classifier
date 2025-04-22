@@ -1,0 +1,4 @@
+scripts/finetune/checkpoints/
+scripts/finetune/output
+datasets/heldout_eval_split.jsonl
+datasets/train_split.jsonl

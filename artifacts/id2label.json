@@ -1,0 +1,11 @@
+{
+  "0": "Adversarial Example",
+  "1": "Harmful Request",
+  "2": "Indirect Manipulation",
+  "3": "Instruction Override",
+  "4": "Jailbreak Attempt",
+  "5": "Other",
+  "6": "Prompt Leaking",
+  "7": "Role Impersonation",
+  "8": "benign"
+}
